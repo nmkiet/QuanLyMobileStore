@@ -1,0 +1,244 @@
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\PhanMem_QLCuaHangDienThoai.exe.config
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\PhanMem_QLCuaHangDienThoai.exe
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\PhanMem_QLCuaHangDienThoai.pdb
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Data.v19.1.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Data.v19.1.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.csprojResolveAssemblyReference.cache
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.Frm_DangKiTK.resources
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.Properties.Resources.resources
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.csproj.GenerateResource.Cache
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.exe.licenses
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.exe
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.pdb
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmDangNhap.resources
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.Frm_DangNhap.resources
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmNhapHang.resources
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraBars.v19.1.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Images.v19.1.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Office.v19.1.Core.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmDoiMatKhau.resources
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmTrangChu.resources
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmThongTinTK.resources
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmNhanVien.resources
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmKhachHang.resources
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmSanPham.resources
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmBanHang_Xuat.resources
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Mvvm.v19.1.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraWizard.v19.1.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Mvvm.v19.1.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraWizard.v19.1.xml
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraWizard.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraWizard.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraWizard.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraWizard.v19.1.resources.dll
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frm_Nhap.resources
+E:\LẬP TRÌNH WINDONWS NÂNG CAO\DoAn_QuanLiCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmNhaCungCap.resources
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.csprojAssemblyReference.cache
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmBanHang.resources
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmNhaCungCap.resources
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmNhanVien.resources
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmSanPham.resources
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmTrangChu.resources
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.Frm_DangNhap.resources
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.Properties.Resources.resources
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.csproj.GenerateResource.cache
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.exe.licenses
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\PhanMem_QLCuaHangDienThoai.exe.config
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\PhanMem_QLCuaHangDienThoai.exe
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\PhanMem_QLCuaHangDienThoai.pdb
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DAL.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Mvvm.v19.1.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraWizard.v19.1.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DAL.pdb
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DAL.dll.config
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Mvvm.v19.1.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraWizard.v19.1.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraWizard.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraWizard.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraWizard.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraWizard.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.csproj.CopyComplete
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.exe
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.pdb
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmNhapHang.resources
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\PhanMem_QLCuaHangDienThoai\obj\Debug\PhanMem_QLCuaHangDienThoai.frmKhachHang.resources

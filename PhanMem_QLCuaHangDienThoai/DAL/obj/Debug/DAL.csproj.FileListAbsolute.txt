@@ -1,0 +1,12 @@
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\DAL\obj\Debug\DAL.frmCauHinh.resources
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\DAL\bin\Debug\DAL.dll.config
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\DAL\bin\Debug\DAL.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\DAL\bin\Debug\DAL.pdb
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\DAL\obj\Debug\DAL.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\DAL\obj\Debug\DAL.pdb
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\DAL\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\DAL\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\itkie\Desktop\ltwnc\PhanMem_QLCuaHangDienThoai\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
